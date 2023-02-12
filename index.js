@@ -21,7 +21,7 @@ if (hours < 12 && hours > 6) {
 } else if (hours > 12 && hours < 17) {
     timeOfTheDay = "Hello Dear, Good AfterNoon 🕑"
 }else if (hours > 17 && hours <  20) {
-    timeOfTheDay = "Hello Dear, Good Evning 🌆"
+    timeOfTheDay = "Hello Dear, Good Evening 🌆"
 } else {
     timeOfTheDay = "Hello Dear, Good Night 🌃"
     }
