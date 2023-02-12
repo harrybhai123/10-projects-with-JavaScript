@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
-    
+    font-size:1.5rem;
     height: 100vh;
     place-content: center;
     text-align: center;
