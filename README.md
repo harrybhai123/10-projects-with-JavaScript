@@ -1,2 +1,2 @@
-# 10-projects-with-JavaScript
+# Quote Genrator
  
