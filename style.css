@@ -44,7 +44,7 @@ p{
     border-radius: 3px;
 }
 
-.btn:hover{
+.btn:hover, .btn:focus{
     transform: scale(1.1);
 }
 
