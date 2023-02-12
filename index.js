@@ -19,13 +19,13 @@ let timeOfTheDay
 let hours = date.getHours()
 
   if (hours < 12 && hours > 6) {
-    timeOfDay = "Hello Dear, Good Morning 🌄";
+    timeOfTheDay = "Hello Dear, Good Morning 🌄";
   } else if (hours >= 12 && hours < 17) {
-    timeOfDay = "Hello Dear, Good Afternoon 🕑";
+    timeOfTheDay = "Hello Dear, Good Afternoon 🕑";
   } else if (hours >= 17) {
-    timeOfDay = "Hello Dear, Good Evening 🌃";
+    timeOfTheDay = "Hello Dear, Good Evening 🌃";
   } else if (hours >= 20) {
-    timeOfDay = "Hello Dear, Good Night 😴";
+    timeOfTheDay = "Hello Dear, Good Night 😴";
   }
     
 dateEl.textContent = d
