@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    
+    height: 100vh;
+    place-content: center;
+    text-align: center;
+    color: wheat;
+    text-shadow: 1px 1px 2px #000;
+    justify-content: space-between;
+    
+}
