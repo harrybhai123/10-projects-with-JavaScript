@@ -28,6 +28,10 @@ body{
   border-radius: 10px;
 }
 
+p{
+    line-height: 1.4;
+}
+
 .btn{
     margin-top: 2em;
     font-size: 1.2rem;
